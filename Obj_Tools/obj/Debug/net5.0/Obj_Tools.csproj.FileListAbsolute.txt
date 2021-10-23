@@ -1,0 +1,16 @@
+D:\Users\Obj_Tools\bin\Debug\net5.0\Obj_Tools.exe
+D:\Users\Obj_Tools\bin\Debug\net5.0\Obj_Tools.deps.json
+D:\Users\Obj_Tools\bin\Debug\net5.0\Obj_Tools.runtimeconfig.json
+D:\Users\Obj_Tools\bin\Debug\net5.0\Obj_Tools.runtimeconfig.dev.json
+D:\Users\Obj_Tools\bin\Debug\net5.0\Obj_Tools.dll
+D:\Users\Obj_Tools\bin\Debug\net5.0\ref\Obj_Tools.dll
+D:\Users\Obj_Tools\bin\Debug\net5.0\Obj_Tools.pdb
+D:\Users\Obj_Tools\obj\Debug\net5.0\Obj_Tools.csproj.AssemblyReference.cache
+D:\Users\Obj_Tools\obj\Debug\net5.0\Obj_Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Obj_Tools\obj\Debug\net5.0\Obj_Tools.AssemblyInfoInputs.cache
+D:\Users\Obj_Tools\obj\Debug\net5.0\Obj_Tools.AssemblyInfo.cs
+D:\Users\Obj_Tools\obj\Debug\net5.0\Obj_Tools.csproj.CoreCompileInputs.cache
+D:\Users\Obj_Tools\obj\Debug\net5.0\Obj_Tools.dll
+D:\Users\Obj_Tools\obj\Debug\net5.0\ref\Obj_Tools.dll
+D:\Users\Obj_Tools\obj\Debug\net5.0\Obj_Tools.pdb
+D:\Users\Obj_Tools\obj\Debug\net5.0\Obj_Tools.genruntimeconfig.cache
